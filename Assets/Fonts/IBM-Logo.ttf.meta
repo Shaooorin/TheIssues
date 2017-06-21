@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cfacbb0b56ba4fa4183310fbff4689d9
+timeCreated: 1498034735
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IBM Logo
+  fontNames:
+  - IBM Logo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
